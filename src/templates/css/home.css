@@ -1,0 +1,47 @@
+div {
+	margin: 8px;
+	padding: 8px;
+}
+
+h1 {
+	font-family: "Arial";
+	color: #000000;
+	padding: 10px;
+	height: 40px;
+}
+
+label {
+	margin-bottom: 8px;
+}
+
+button {
+	margin: 8px;
+}
+
+p {
+	margin: 8px;
+}
+
+h4 {
+	margin: 8px;
+	color: white;
+}
+
+
+.jumbotron {
+	width: 100%;
+	background-size: cover;
+}
+
+body {
+	background-color: #F9F9F9;
+}
+
+#carouselExampleIndicators1 {
+	float: left;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+}
